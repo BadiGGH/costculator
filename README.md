@@ -28,7 +28,8 @@
 git clone git@github.com:yourusername/costculator.git
 cd costculator
 flutter pub get
-flutter run```
+flutter run
+```
 
 ## 🤝 Contributing
 
